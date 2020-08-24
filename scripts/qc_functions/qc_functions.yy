@@ -2,11 +2,11 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Scripts",
-    "path": "folders/Scripts.yy",
+    "name": "Quick Camera",
+    "path": "folders/Quick Camera.yy",
   },
   "resourceVersion": "1.0",
-  "name": "round_int",
+  "name": "qc_functions",
   "tags": [],
   "resourceType": "GMScript",
 }
