@@ -39,6 +39,4 @@ qc_resolution_width = 256;
 qc_resolution_height = 192;
 qc_view_width = 256;
 qc_view_height = 192;
-qc_view_x = 0;
-qc_view_y = 0;
 qc_window_scale = 1;

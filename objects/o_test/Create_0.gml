@@ -8,4 +8,5 @@ enum ROUND {
 	GM,
 	SIZE
 }
+
 rounding_style = ROUND.NONE;
